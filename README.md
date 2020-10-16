@@ -15,7 +15,8 @@ Introduced yourself by different way using the Portfolio.Add more information ab
 ## How to use
 -- Step 1-click on portfolio block</br>
 -- Step 2- Know about that person click on about as well for other information click on that particular block</br>
--- Step 3- For verofication of certificates click on that so you get clear about it.
+-- Step 3- For verification of certificates click on that so you get clear about it.
+--step 4-Any query then contact block is also given click on that.
 
 ## Contributions
 You need to follow some steps to contribute to this project as we are holding copyrights for same.</br>
